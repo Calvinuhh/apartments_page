@@ -15,7 +15,7 @@
     "description": "Condominio dentro del hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero chic de Miami Un dormitorio tamaño king con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfruta del gran baño de mármol con bañera profunda y ducha de vidrio. Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Aparcamiento gratuito disponible para un vehículo y acceso a la piscina del hotel, el spa, el gimnasio y los restaurantes.",
     "offers": [
       "TV",
-      "Airl;/e acondicionado",
+      "Aire acondicionado",
       "Detector de humo",
       "Detector de monóxido de carbono",
       "Extintor de incendios",
@@ -24,7 +24,8 @@
       "Cocina",
       "Estacionamiento gratuito en las instalaciones",
       "Piscina"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/N76r2AJ6"
   },
   {
     "title": "Apartamento de lujo en Brickell",
@@ -60,7 +61,8 @@
       "Cocina",
       "Estacionamiento gratuito en las instalaciones",
       "Piscina"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/UR1jWoqE"
   },
   {
     "title": "Apartamento de lujo de 2 dormitorios en Brickell Ave",
@@ -105,7 +107,8 @@
       "Estacionamiento gratuito en las instalaciones",
       "Piscina",
       "Muchos mas! puedes mirar en la pagina de AirBnb"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/GRWKw304"
   },
   {
     "title": "Apartamento de lujo en Brickell Ave",
@@ -143,7 +146,8 @@
       "Licuadora",
       "Mesa de comedor",
       "Muchos mas! puedes mirar en la pagina de AirBnb"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/X0NFTiwZ"
   },
   {
     "title": "Condominio Miami Brickell Lux con vista al mar 2BD/2.5BR",
@@ -193,7 +197,8 @@
       "Microondas",
       "Lavavajillas",
       "Muchos mas! puedes mirar en la pagina de AirBnb"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/VFda0Vnp"
   },
   {
     "title": "Apartamento de lujo de 1 dormitorio en Brickell Ave",
@@ -237,7 +242,8 @@
       "Tostadora",
       "Licuadora",
       "Muchos mas! puedes mirar en la pagina de AirBnb"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/8k6g5Wto"
   },
   {
     "title": "Vistas al mar del apartamento en Brickell",
@@ -275,6 +281,7 @@
       "Cocina",
       "Estacionamiento gratuito en las instalaciones",
       "Piscina"
-    ]
+    ],
+    "link": "https://www.airbnb.com/slink/vid2uAFB"
   }
 ]
