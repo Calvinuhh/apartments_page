@@ -1,12 +1,10 @@
 import style from "./title.module.css";
 
-const Title = () => {
+const Title = ({ language }) => {
   return (
     <>
-      <h1 id={style.main_title}>Titulo</h1>
+      <h1 id={style.main_title}>{language}</h1>
     </>
-    // <div id={style.title_container}>
-    // </div>
   );
 };
 

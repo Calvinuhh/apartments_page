@@ -1,7 +1,7 @@
 import style from "./cards.module.css";
 import { Link } from "react-router-dom";
 
-const Cards = ({ apartments }) => {
+const Cards = ({ apartments, details, services, booking, watchDetails }) => {
   return (
     <div className={style.container}>
       {apartments.map((elem, index) => {
@@ -25,7 +25,7 @@ const Cards = ({ apartments }) => {
             </h2>
 
             <details>
-              <summary className={style.summary}>Detalles:</summary>
+              <summary className={style.summary}>{details}</summary>
               {elem.description.map((elem, index) => {
                 return (
                   <div key={index}>
@@ -37,7 +37,7 @@ const Cards = ({ apartments }) => {
             </details>
 
             <details>
-              <summary className={style.summary}>Servicios:</summary>
+              <summary className={style.summary}>{services}</summary>
               {elem.offers.map((elem, i) => {
                 return (
                   <li key={i} className={style.lista_offers}>
@@ -48,7 +48,7 @@ const Cards = ({ apartments }) => {
             </details>
 
             <details>
-              <summary className={style.summary}>Haz tu reserva!</summary>
+              <summary className={style.summary}>{booking}</summary>
 
               <Link
                 className={style.link}
@@ -56,7 +56,7 @@ const Cards = ({ apartments }) => {
                 rel="noopener noreferrer"
                 to={elem.link}
               >
-                Ver más detalles
+                <p className={style.p_link}>{watchDetails}</p>
               </Link>
             </details>
           </div>

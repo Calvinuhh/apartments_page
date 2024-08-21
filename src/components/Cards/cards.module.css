@@ -54,6 +54,13 @@
   font-size: 20px;
   font-family: "New Amsterdam";
   margin-bottom: 20px;
+  transition: 0.3s ease;
+}
+
+.summary:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+  color: brown;
 }
 
 .p_description {
@@ -64,8 +71,14 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
-.link {
+.p_link {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  transition: ease 0.4s;
+  text-decoration: none;
+}
+
+.p_link:hover {
+  transform: scale(1.2);
 }
 
 @media (width < 750px) {

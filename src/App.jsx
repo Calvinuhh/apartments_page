@@ -1,17 +1,18 @@
-import Cards from "./components/Cards/Cards.jsx";
-import Title from "./components/Title/Title.jsx";
-import info from "./utils/apartments.json";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Main from "./views/Main";
+import MainSpanish from "./views/MainSpanish";
 import "./index.css";
 
 function App() {
   return (
-    <div id="container_app">
+    <>
       <BrowserRouter>
-        <Title />
-        <Cards apartments={info} />
+        <Routes>
+          <Route path="/" element={<Main />}></Route>
+          <Route path="/spanish" element={<MainSpanish />}></Route>
+        </Routes>
       </BrowserRouter>
-    </div>
+    </>
   );
 }
 

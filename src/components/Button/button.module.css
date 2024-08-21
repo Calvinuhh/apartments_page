@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap");
+
+.button_container {
+  width: 170px;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  background-color: rgba(165, 42, 42, 0.708);
+  margin-top: 100px;
+  margin-bottom: 170px;
+  border: none !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: 3px solid transparent !important;
+  color: #fff !important;
+  -webkit-box-shadow: 0 -3px 0 0 #a1281b;
+  box-shadow: 3px 3px 0 0 #a1281b;
+  cursor: pointer;
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+  background-color: transparent;
+  border: 3px solid #a1281b !important;
+  color: #a1281b !important;
+}
+
+.button_container:hover {
+  background-color: #ab2c1f !important;
+  border: 3px solid #ab2c1f !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  transform: scale(1.1);
+}
+
+.button_lan {
+  font-family: "New Amsterdam";
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.img_button {
+  width: 25px;
+}

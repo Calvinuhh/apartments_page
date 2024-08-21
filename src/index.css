@@ -8,12 +8,3 @@
 body {
   background-color: #c6e2ff;
 }
-
-#container_app {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  overflow: hidden;
-}
