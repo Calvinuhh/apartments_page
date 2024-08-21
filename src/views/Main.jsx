@@ -11,7 +11,7 @@ const Main = () => {
       <Button
         language={"Spanish"}
         linkTo={"/spanish"}
-        linkLogo={"../../public/imgs/spain.png"}
+        linkLogo={"/imgs/spain.png"}
       />
       <Title language={"Apartments"} />
       <Cards

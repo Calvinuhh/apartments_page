@@ -8,11 +8,7 @@ import "./main.css";
 const MainEnglish = () => {
   return (
     <div className="container_app">
-      <Button
-        language={"English"}
-        linkTo={"/"}
-        linkLogo={"../../public/imgs/usa.png"}
-      />
+      <Button language={"English"} linkTo={"/"} linkLogo={"/imgs/usa.png"} />
       <Title language={"Apartamentos"} />
       <Cards
         apartments={info.spanish}
