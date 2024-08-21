@@ -12,7 +12,10 @@
       "https://a0.muscache.com/im/pictures/5870edf3-33fd-4ca0-8707-b6af207ff6a1.jpg?im_w=720"
     ],
     "apartment_data": ["4 huespedes", "1 habitacion", "1 baño"],
-    "description": "Condominio dentro del hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero chic de Miami Un dormitorio tamaño king con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfruta del gran baño de mármol con bañera profunda y ducha de vidrio. Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Aparcamiento gratuito disponible para un vehículo y acceso a la piscina del hotel, el spa, el gimnasio y los restaurantes.",
+    "description": [
+      "Condominio dentro del hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero chic de Miami Un dormitorio tamaño king con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. ",
+      "Disfruta del gran baño de mármol con bañera profunda y ducha de vidrio. Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Aparcamiento gratuito disponible para un vehículo y acceso a la piscina del hotel, el spa, el gimnasio y los restaurantes."
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",
@@ -46,7 +49,11 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-1138626106196334806/original/b74a3e26-79c8-4cc1-a9c1-0b454f857563.jpeg?im_w=720"
     ],
     "apartment_data": ["6 huespedes", "2 habitaciones", "2.5 baños"],
-    "description": "Disfruta de un lujoso condominio de 2 dormitorios y 2,5 baños con estacionamiento gratuito, conserje las 24 horas, los 7 días de la semana y un balcón privado. La espaciosa sala de estar cuenta con TV de pantalla plana y sofá sofá. Los dormitorios cuentan con una cama tamaño king en la suite principal y 2 camas tamaño queen en el segundo dormitorio y acceso al balcón. ¡Experimenta Miami con estilo con esta ubicación privilegiada, comodidades modernas y vistas impresionantes! * Piscina en la azotea con bar. *Gimnasio * Adrift Mare Restaurant(estrella Michelen) * Zeru Miami Restaurant",
+    "description": [
+      "Disfruta de un lujoso condominio de 2 dormitorios y 2,5 baños con estacionamiento gratuito, conserje las 24 horas, los 7 días de la semana y un balcón privado. ",
+      "La espaciosa sala de estar cuenta con TV de pantalla plana y sofá sofá. Los dormitorios cuentan con una cama tamaño king en la suite principal y 2 camas tamaño queen en el segundo dormitorio y acceso al balcón. ",
+      "¡Experimenta Miami con estilo con esta ubicación privilegiada, comodidades modernas y vistas impresionantes! * Piscina en la azotea con bar. *Gimnasio * Adrift Mare Restaurant(estrella Michelen) * Zeru Miami Restaurant"
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",
@@ -84,7 +91,11 @@
       "https://a0.muscache.com/im/pictures/e7ec5517-7772-4b8d-9801-3dd5b03677b4.jpg?im_w=1200"
     ],
     "apartment_data": ["4 huespedes", "2 habitaciones", "2 camas", "2 baños"],
-    "description": "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el del elegante distrito financiero de Miami. Un baño de 2 dormitorios y 2,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfruta de los grandes baños de mármol con bañera profunda y ducha de vidrio. Hotel por cable con televisión inteligente y wifi de alta velocidad. Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora/secadora incluidas. Aparcamiento gratuito y acceso a la piscina del hotel, al spa, al salón de cócteles y AL GIMNASIO.",
+    "description": [
+      "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el del elegante distrito financiero de Miami. Un baño de 2 dormitorios y 2,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. ",
+      "Disfruta de los grandes baños de mármol con bañera profunda y ducha de vidrio. Hotel por cable con televisión inteligente y wifi de alta velocidad. ",
+      "Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora/secadora incluidas. Aparcamiento gratuito y acceso a la piscina del hotel, al spa, al salón de cócteles y AL GIMNASIO."
+    ],
     "offers": [
       "TV",
       "Vista a la Bahia",
@@ -123,7 +134,11 @@
       "https://a0.muscache.com/im/pictures/2a1ae15f-f53b-449b-9858-0c51fad69313.jpg?im_w=720"
     ],
     "apartment_data": ["4 huespedes", "1 habitacion", "1 cama", "1 baño"],
-    "description": "Condominio dentro del Hotel AKA en el corazón del elegante distrito financiero de Miami. Un dormitorio king con impresionantes vistas de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfrute de los amplios baños de mármol con bañera profunda y ducha con mampara de vidrio. Cable del hotel con Smart TV y wifi de alta velocidad. Disfrute de todas las comodidades de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora/secadora incluidas. Estacionamiento gratuito y acceso a la piscina del hotel, spa y salón de cócteles.",
+    "description": [
+      "Condominio dentro del Hotel AKA en el corazón del elegante distrito financiero de Miami. Un dormitorio king con impresionantes vistas de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. ",
+      "Disfrute de los amplios baños de mármol con bañera profunda y ducha con mampara de vidrio. Cable del hotel con Smart TV y wifi de alta velocidad. ",
+      "Disfrute de todas las comodidades de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora/secadora incluidas. Estacionamiento gratuito y acceso a la piscina del hotel, spa y salón de cócteles."
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",
@@ -174,7 +189,11 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-511705014300840158/original/006d0ddc-ef2b-4e7e-8585-5ad714778acc.jpeg?im_w=720"
     ],
     "apartment_data": ["6 huespedes", "2 habitaciones", "2.5 baños"],
-    "description": "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero de Brickell de Miami. Un baño de 2 dormitorios y 2,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfruta de los grandes baños de mármol con bañera profunda y ducha de vidrio. Hotel por cable con televisión inteligente y wifi de alta velocidad. Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora y secadora. Aparcamiento gratuito y acceso a la piscina del hotel, spa, salón de cócteles y GIMNASIO.",
+    "description": [
+      "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero de Brickell de Miami. Un baño de 2 dormitorios y 2,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. ",
+      "Disfruta de los grandes baños de mármol con bañera profunda y ducha de vidrio. Hotel por cable con televisión inteligente y wifi de alta velocidad. ",
+      "Disfruta de todos los servicios de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora y secadora. Aparcamiento gratuito y acceso a la piscina del hotel, spa, salón de cócteles y GIMNASIO."
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",
@@ -219,7 +238,11 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-29586958/original/04791edc-071a-4806-b9b7-bf86d3baa6b5.jpeg?im_w=720"
     ],
     "apartment_data": ["4 huespedes", "1 habitacion", "1 cama", "1 baño"],
-    "description": "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero chic de Miami. Un baño de 1 dormitorio y 1,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. Disfrute de los amplios baños de mármol con bañera profunda y ducha con mampara de vidrio. Cable del hotel con Smart TV y wifi de alta velocidad. Disfrute de todas las comodidades de un hotel con la sensación de un condominio de lujo. Ropa de cama y lavadora/secadora incluidas. Aparcamiento gratuito y acceso a la piscina del hotel, al spa, al salón de cócteles y AL GIMNASIO.",
+    "description": [
+      "Condominio dentro del Hotel, TAMBIÉN CONOCIDO COMO en el corazón del distrito financiero chic de Miami. Un baño de 1 dormitorio y 1,5 con impresionantes vistas al horizonte de Miami, cocina totalmente equipada y amplia sala de estar con sofá cama. ",
+      "Disfrute de los amplios baños de mármol con bañera profunda y ducha con mampara de vidrio. Cable del hotel con Smart TV y wifi de alta velocidad. Disfrute de todas las comodidades de un hotel con la sensación de un condominio de lujo. ",
+      "Ropa de cama y lavadora/secadora incluidas. Aparcamiento gratuito y acceso a la piscina del hotel, al spa, al salón de cócteles y AL GIMNASIO."
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",
@@ -266,7 +289,10 @@
       "https://a0.muscache.com/im/pictures/23f67039-41fd-4ee0-b289-dd142567555a.jpg?im_w=720"
     ],
     "apartment_data": ["6 huespedes", "2 habitaciones", "3 camas", "2 baños"],
-    "description": "Condominio dentro del hotel, TAMBIÉN CONOCIDO COMO en el corazón de Brickell. Un baño de 2 dormitorios y 2 baños con impresionantes vistas al horizonte, cocina totalmente equipada y una amplia sala de estar con sofá cama. Disfruta de los grandes baños de mármol con bañera profunda y duchas de vidrio. Cable del hotel, televisión inteligente y WIFI de alta velocidad. Disfruta de las comodidades de estilo hotel con la sensación de un condominio. Estacionamiento gratuito y acceso al spa del hotel, la piscina, el gimnasio y los salones de cócteles.",
+    "description": [
+      "Condominio dentro del hotel, TAMBIÉN CONOCIDO COMO en el corazón de Brickell. Un baño de 2 dormitorios y 2 baños con impresionantes vistas al horizonte, cocina totalmente equipada y una amplia sala de estar con sofá cama. ",
+      "Disfruta de los grandes baños de mármol con bañera profunda y duchas de vidrio. Cable del hotel, televisión inteligente y WIFI de alta velocidad. Disfruta de las comodidades de estilo hotel con la sensación de un condominio. Estacionamiento gratuito y acceso al spa del hotel, la piscina, el gimnasio y los salones de cócteles."
+    ],
     "offers": [
       "TV",
       "Aire acondicionado",

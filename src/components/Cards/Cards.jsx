@@ -26,7 +26,14 @@ const Cards = ({ apartments }) => {
 
             <details>
               <summary className={style.summary}>Detalles:</summary>
-              <p className={style.p_description}>{elem.description}</p>
+              {elem.description.map((elem, index) => {
+                return (
+                  <div key={index}>
+                    <p className={style.p_description}>{elem}</p>
+                    <br />
+                  </div>
+                );
+              })}
             </details>
 
             <details>
@@ -41,9 +48,14 @@ const Cards = ({ apartments }) => {
             </details>
 
             <details>
-              <summary className={style.summary}>Link:</summary>
+              <summary className={style.summary}>Haz tu reserva!</summary>
 
-              <Link className={style.link} target="_blank" rel="noopener noreferrer" to={elem.link}>
+              <Link
+                className={style.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                to={elem.link}
+              >
                 Ver más detalles
               </Link>
             </details>
