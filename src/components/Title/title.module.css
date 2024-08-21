@@ -3,9 +3,21 @@
 #main_title {
   font-family: "New Amsterdam";
   color: black;
-  text-align: center;
   font-size: 80px;
   margin-top: 100px;
   margin-bottom: 160px;
   text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.5);
+}
+
+@media (width < 750px) {
+  #main_title {
+    font-size: 60px;
+  }
+}
+
+@media (width < 450px) {
+  #main_title {
+    font-size: 40px;
+    margin-bottom: 80px;
+  }
 }
