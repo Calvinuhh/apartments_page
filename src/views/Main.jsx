@@ -1,4 +1,4 @@
-import info from "../utils/apartments.json";
+import info from "../utils/apartmentsEnglish.json";
 import Button from "../components/Button/Button";
 import Title from "../components/Title/Title";
 import Cards from "../components/Cards/Cards";
@@ -15,7 +15,7 @@ const Main = () => {
       />
       <Title language={"Apartments"} />
       <Cards
-        apartments={info.english}
+        apartments={info}
         details={"Details:"}
         services={"Services:"}
         booking={"Make your reservation!"}
